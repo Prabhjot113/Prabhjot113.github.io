@@ -26,6 +26,22 @@ ____________________________________
 I have keen interest in reading books 📚 in my free time. Also, I do drawing in this time. Moreover, I like to participate in cultural activities.
 ____________________________________
 
+# MY EXPERIENCE AT GNDEC
+____________________________________
+
+# Induction programme
+____________________________________
+
+🖇️**DAY 1**
+____________________________________
+
+College is a time to discover who you are and what you are passionate about. Embrace your uniqueness and let it shine.The first day of college is just the beginning of your college journey. I woke up with the excitement to start my new journey at Guru Nanak Dev Engineering College. Our journey began with the blessings of waheguru ji, we listen kirtan at the gurudwara sahib. After, we got refreshment. And then, we mark our attendance outside the auditorium and got the folders.
+
+Afterward,we entered the auditorium and listen the Mool Mantra , after some time our first speaker MRS.HARPEET KAUR arrived on stage. She did our heartiest welcome and made our day. Then our respected principal Dr.SEHIJPAL SINGH give motivational speech to us.Many other alumni's of the college were arrived,they also appreciate us and we felt good.Our first day was so memorable for us.
+____________________________________
+
+🖇️**DAY 2**
+____________________________________
 
 
 
@@ -33,13 +49,13 @@ ____________________________________
 
 ____________________________________
 
-**Day 4**
+🖇️**Day 4**
 ____________________________________
 
 My time at CodeGNE has been both exciting and rewarding. As an Information Technology student at Guru Nanak Dev Engineering College, I'm always eager to improve my skills and embrace new challenges.
 ____________________________________
 
-**Day 5: Discovering the IT Department’s Vision and Mission**
+🖇️**Day 5: Discovering the IT Department’s Vision and Mission**
 ____________________________________
 
 Today was our fifth day of college, and it was filled with insightful and educational experiences.
