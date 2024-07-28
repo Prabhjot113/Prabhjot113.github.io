@@ -1,86 +1,79 @@
 
 # Prabhjot113.github.io
-____________________________________
+___________________________________
 
 # Introduction
-____________________________________
+___________________________________
 
 Hello everyone, Firstly I would like to thank you for giving me this opportunity and it's my pleasure to introduce myself. My name is Prabhjot Kaur.I am from Dehlon district Ludhiana.Let me tell about my schooling.
-____________________________________
+___________________________________
 
 # About schooling
-____________________________________
+___________________________________
 
 I completed my 10th at **Govt Sen Sec Smart School Dehlon** in 2021 and done my 12 standard from same school in 2023.
-____________________________________
+___________________________________
 
 # About college
-____________________________________
+___________________________________
 
 Now I pursue my study in BTech Information Technology at **Guru Nanak Dev Engineering College Ludhiana**. Here I want to learn coding and develop good skills, currently I don't know about coding but I believe that under the guidance of Dr.HS Rai Sir I can achieve my goals in it.
-____________________________________
+___________________________________
 
 # Hobbies
-____________________________________
+___________________________________
 
 I have keen interest in reading books 📚 in my free time. Also, I do drawing in this time. Moreover, I like to participate in cultural activities.
-____________________________________
+___________________________________
 
 # MY EXPERIENCE AT GNDEC
-____________________________________
+___________________________________
 
 # Induction programme
-____________________________________
+___________________________________
 
 🖇️**DAY 1**
-____________________________________
+___________________________________
 
 College is a time to discover who you are and what you are passionate about. Embrace your uniqueness and let it shine.The first day of college is just the beginning of your college journey. I woke up with the excitement to start my new journey at Guru Nanak Dev Engineering College. Our journey began with the blessings of waheguru ji, we listen kirtan at the gurudwara sahib. After, we got refreshment. And then, we mark our attendance outside the auditorium and got the folders.
 
 Afterward,we entered the auditorium and listen the Mool Mantra , after some time our first speaker MRS.HARPEET KAUR arrived on stage. She did our heartiest welcome and made our day. Then our respected principal Dr.SEHIJPAL SINGH give motivational speech to us.Many other alumni's of the college were arrived,they also appreciate us and we felt good.Our first day was so memorable for us.
-____________________________________
+___________________________________
 
-🖇️**DAY 2**Date:-11July2024
+🖇️**DAY 2**
+Date:-11July2024
 It is about what is going on in induction program
 
-e85b6204-cc6a-4d66-887a-f8357848fc05
-
-In our auditorium there are so many things which our professors and our guide and our seniors told us . In our induction program all told us how to anywork and how to inhance your skills .
+In our auditorium there are so many things which our professors and our guide and our seniors told us . In our induction program all told us how to anywork and how to enhance your skills .
 
 Firstly Dr.Arvind dhingra sir
 
-He is the chairman of of “Technical Activities committee “.He has a very nice experience. He told us that best music for us is our own heartbeat.If one negative thoughts come inside our minde then I destroy 17 positive thoughts.We all have 86400sec in daily thats a challenge for us how to spend this time .
+He is the chairman of“Technical Activities committee “.He has a very nice experience. He told us that best music for us is our own heartbeat.If one negative thoughts come inside our minde then it destroy 17 positive thoughts.We all have 86400sec in daily thats a challenge for us how to spend this time.
 
-Types of memberships
+*Types of memberships*
 
 1.Members 2.Active members 3.Excutive members 4.Office Bearers
 
-Someother information
+*Some other information about clubs and societies in college*
 
-1.SCIE(Student chapter of institution of engineering) which is found in 1969
+(1.)SCIE(Student chapter of institution of engineering) which is found in 1969
+(2.)ISTE(Indian society for tec.education)
+(3.)E2S2(Electrical engineering staff and student)
+(4.)SAE INDIA
+(5.)BAJA
+(6.) Itian club 
+(7.)Causmic club 
+(8.) Cultural committee and many more 
+He gave us someother information about scholarships.
+Also about 3PS for success:
+1.Passion
+2.Persistence
+3.Patience
+___________________________________
 
-2.ISTE(Indian society for tec.education)
-
-3.E2S2(Electrical engineering staff and student)
-
-4.SAE INDIA
-
-5.BAJA
-
-He gave us someother information about scholouships also
-
-Scholarship 
-
-3PS for sucess
-
-Passion
-
-Persistence
-
-Patience
-
+🖇️**DAY 3**
 Date:-12july2024
-UHV LECTURE
+*UHV LECTURE*
 
 Universal Human Values (UHV): This class taught us about important values and ethics.
 
@@ -97,80 +90,65 @@ Natural and Verifiable: It has to be ‘naturally acceptable’ to the human bei
 All Encompassing: It needs to cover all dimensions (thought, behaviour, work and understanding) and levels (individual, family, society and nature/existence) of human life.
 
 Universal Human Values Handout 1 of 5 Introduction to Value Education Leading to Harmony: It ultimately needs to promote harmony within the individual, among human beings and with the entire nature.
-
 In this lacture we learned a lot.
 
+*PEER INTERACTION*
+In this class our seniors gave information to us about the websites of college and taught that how we can visit the sites and many other things.
+___________________________________
+
+🖇️**DAY 4**
 Date:-15july2024
-____________________________________
+
+Today we reach to auditorium and Dr.Randhir sir tell us how to login our github account and we all make it and learned a lot.
+
+Dr.Pyara lal garg
+He addressed a lot.He is a very great personality ,simple and loyal person. Sir share us very nice lines of poetry. Sir said us if you want to shine then nothing is impossible.You do and believe your ouw self . If you want to do then you do what you like to do. Always think positive not negative. There are so many problems in your life but you face and win from it.There is a no person in the world who is not get faliures.So come front and face problem and handle them then you succeed in life. Person live with hopes why you are hopeless?
+
+Mr.Sony goyal
+He is a enterprineur and also a very nice personality. He gave us a huge amount and quantity of knowledge.He gave us first lesson was name is Give your 100%.Love what you do . He explained the meaning of 4 years life of B.tech.
+1.learn
+2.inquire
+3.future
+4.explore
+
+Our senior Pancham jai singh gill Sir is a also good . He started his lacrure from back of the auditorium. To pay some attention form the audience . He gave us huge amount of knowledge also told us how to judge a person from his /her's pose .
 
 
-
-
-Date:-15july2024
-Today we reach to auditorium and Dr.Randhir sir tell us how to login our github account and we all make it and learned i lot.
-
-Dr.Pyara lal garg He addressed a lot.He is a very great personality ,simple and loyal person. Sir share us very nice lines of poetry. Sir said us if you want to shine then nothing is impossible.You do and believe your ouw self . If you want to do then you do what you like to do. Always think positive not negitive. There are so many problems in your life but you face and win from it.There is a no person in the world who is not get faliures.So come front and face problem and handel them then you succeed in life. Person live with hopes why you are hopeless?
-
-Mr Sony goyal He is also a very nice personality. He gave us a huge amount and quantity of knowledge.He gave us first lesson was name is Give your 100%.Love what you do .
-
-4Years life@B tech
-
-learn
-
-inquire
-
-future
-
-explore
-
-Our senior pancham jai singh gill Sir is a also good . He started his lacrure from back of the auditorium. To pay some attention form the audious . He gave us huge amount of knowledge also told us how to judge a person from its pose .
-
-
-____________________________________
-
-🖇️**Day 4**
-____________________________________
+___________________________________
+___________________________________
 
 My time at CodeGNE has been both exciting and rewarding. As an Information Technology student at Guru Nanak Dev Engineering College, I'm always eager to improve my skills and embrace new challenges.
-____________________________________
+___________________________________
 
 🖇️**Day 5: Discovering the IT Department’s Vision and Mission**
-____________________________________
+Date:16july2024
 
 Today was our fifth day of college, and it was filled with insightful and educational experiences.
 
-Introduction to the IT Department
+*Introduction to the IT Department*
 We began by gathering outside the IT department, where the energy was high with anticipation for the day's activities. Our professors led us to the hardware lab, where we were introduced to the department's core values and objectives.
 
-Understanding the Vision and Mission
+*Understanding the Vision and Mission*
 In the hardware lab, our professors explained the vision and mission of the IT department. The vision is especially inspiring: to educate students from rural areas and transform them into professionals. This dedication to empowering rural students highlights the department's commitment to inclusive education and social progress.
 
 The mission focuses on preparing us to face the challenges of the rapidly changing tech industry through a thorough curriculum and hands-on learning experiences.
 
-Program-Based Outcomes
+*Program-Based Outcomes*
 We also explored the program-based outcomes, which detail the skills and competencies we are expected to develop during our course. These include technical expertise, problem-solving skills, effective communication, teamwork, and a mindset geared towards lifelong learning. Understanding these outcomes provided us with a clear guide on what we need to achieve and how the department will support us in this journey.
 
-Exploring the IT Department Labs
+*Exploring the IT Department Labs*
 Following the enlightening session in the hardware lab, we visited various other labs within the IT department. Each lab provided insights into different aspects of IT, from software development to network systems and more. These visits were very informative, allowing us to see the practical applications of our coursework and the resources available to us.
 
 CodeGNE Meeting: Learning to Improvise
 Later, we attended a CodeGNE meeting focused on improvisation. We learned several strategies and techniques to improve our problem-solving skills and adaptability. The discussion offered valuable insights on how to think quickly and make effective decisions in dynamic situations.
 
 Reflections
-Today's experiences underscored the importance of values, creativity, and adaptability in our academic and personal growth. The lecture on Universal Human Values reminded me that happiness and contentment are crucial in shaping our lives. The Canva session opened up new creative possibilities, and the doubt session reinforced the importance of teamwork and guidance.
-
-Reflecting on today's events, I am motivated to contribute to and benefit from the department's vision. I look forward to the challenges and opportunities ahead, knowing they are part of a well-defined path to success.
-____________________________________
-
-
-
-
-
-
+Today's experiences underscored the importance of values, creativity, and adaptability in our academic and personal growth. 
+___________________________________
 
 
 # Contact details :-
-____________________________________
+___________________________________
 
 prabhjotkaur70368@gmail.com
-____________________________________
+___________________________________
