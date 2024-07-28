@@ -5,25 +5,29 @@ ___________________________________
 # Introduction
 ___________________________________
 
-Hello everyone, Firstly I would like to thank you for giving me this opportunity and it's my pleasure to introduce myself. My name is Prabhjot Kaur.I am from Dehlon district Ludhiana.Let me tell about my schooling.
+Hello everyone, Firstly I would like to thank you for giving me this opportunity and it's my pleasure to introduce myself. My name is Prabhjot Kaur.I am from Dehlon district Ludhiana.Let me tell about my schooling .
+
 ___________________________________
 
 # About schooling
 ___________________________________
 
-I completed my 10th at **Govt Sen Sec Smart School Dehlon** in 2021 and done my 12 standard from same school in 2023.
+I completed my 10th at **Govt Sen Sec Smart School Dehlon** in 2021 and done my 12 standard from same school in 2023 .
+
 ___________________________________
 
 # About college
 ___________________________________
 
-Now I pursue my study in BTech Information Technology at **Guru Nanak Dev Engineering College Ludhiana**. Here I want to learn coding and develop good skills, currently I don't know about coding but I believe that under the guidance of Dr.HS Rai Sir I can achieve my goals in it.
+Now I pursue my study in BTech Information Technology at **Guru Nanak Dev Engineering College Ludhiana**. Here I want to learn coding and develop good skills, currently I don't know about coding but I believe that under the guidance of Dr.HS Rai Sir I can achieve my goals in it .
+
 ___________________________________
 
 # Hobbies
 ___________________________________
 
-I have keen interest in reading books 📚 in my free time. Also, I do drawing in this time. Moreover, I like to participate in cultural activities.
+I have keen interest in reading books 📚 in my free time. Also, I do drawing in this time. Moreover, I like to participate in cultural activities .
+
 ___________________________________
 
 # MY EXPERIENCE AT GNDEC
@@ -33,11 +37,12 @@ ___________________________________
 ___________________________________
 
 🖇️**DAY 1**
-___________________________________
+Date:09july2024
 
 College is a time to discover who you are and what you are passionate about. Embrace your uniqueness and let it shine.The first day of college is just the beginning of your college journey. I woke up with the excitement to start my new journey at Guru Nanak Dev Engineering College. Our journey began with the blessings of waheguru ji, we listen kirtan at the gurudwara sahib. After, we got refreshment. And then, we mark our attendance outside the auditorium and got the folders.
 
-Afterward,we entered the auditorium and listen the Mool Mantra , after some time our first speaker MRS.HARPEET KAUR arrived on stage. She did our heartiest welcome and made our day. Then our respected principal Dr.SEHIJPAL SINGH give motivational speech to us.Many other alumni's of the college were arrived,they also appreciate us and we felt good.Our first day was so memorable for us.
+Afterward,we entered the auditorium and listen the Mool Mantra , after some time our first speaker MRS.HARPEET KAUR arrived on stage. She did our heartiest welcome and made our day. Then our respected principal Dr.SEHIJPAL SINGH give motivational speech to us.Many other alumni's of the college were arrived,they also appreciate us and we felt good.Our first day was so memorable for us .
+
 ___________________________________
 
 🖇️**DAY 2**
@@ -57,18 +62,30 @@ He is the chairman of“Technical Activities committee “.He has a very nice ex
 *Some other information about clubs and societies in college*
 
 (1.)SCIE(Student chapter of institution of engineering) which is found in 1969
+
 (2.)ISTE(Indian society for tec.education)
+
 (3.)E2S2(Electrical engineering staff and student)
+
 (4.)SAE INDIA
+
 (5.)BAJA
+
 (6.) Itian club 
+
 (7.)Causmic club 
+
 (8.) Cultural committee and many more 
+
 He gave us someother information about scholarships.
 Also about 3PS for success:
+
 1.Passion
+
 2.Persistence
+
 3.Patience
+
 ___________________________________
 
 🖇️**DAY 3**
@@ -93,7 +110,8 @@ Universal Human Values Handout 1 of 5 Introduction to Value Education Leading to
 In this lacture we learned a lot.
 
 *PEER INTERACTION*
-In this class our seniors gave information to us about the websites of college and taught that how we can visit the sites and many other things.
+In this class our seniors gave information to us about the websites of college and taught that how we can visit the sites and many other things .
+
 ___________________________________
 
 🖇️**DAY 4**
@@ -113,11 +131,6 @@ He is a enterprineur and also a very nice personality. He gave us a huge amount 
 
 Our senior Pancham jai singh gill Sir is a also good . He started his lacrure from back of the auditorium. To pay some attention form the audience . He gave us huge amount of knowledge also told us how to judge a person from his /her's pose .
 
-
-___________________________________
-___________________________________
-
-My time at CodeGNE has been both exciting and rewarding. As an Information Technology student at Guru Nanak Dev Engineering College, I'm always eager to improve my skills and embrace new challenges.
 ___________________________________
 
 🖇️**Day 5: Discovering the IT Department’s Vision and Mission**
@@ -143,9 +156,36 @@ CodeGNE Meeting: Learning to Improvise
 Later, we attended a CodeGNE meeting focused on improvisation. We learned several strategies and techniques to improve our problem-solving skills and adaptability. The discussion offered valuable insights on how to think quickly and make effective decisions in dynamic situations.
 
 Reflections
-Today's experiences underscored the importance of values, creativity, and adaptability in our academic and personal growth. 
+Today's experiences underscored the importance of values, creativity, and adaptability in our academic and personal growth .
+
 ___________________________________
 
+🖇️**DAY 6**
+Date:17july2024
+
+Today's again we attended UHV lecture and also there was technical peer interaction 
+In UHV class professor revised the previous class's work and taught us new things related to that .We enjoyed a lot in this class.
+Nextly , after break we attend our technical class.our peers taught us about Excel and chat gpt that how we can use it for solving are difficult problems of study .
+
+___________________________________
+
+🖇️**DAY 7**
+Date:18july2024
+
+In this day , we were in auditorium and our today's greatest speaker was Prof.Harpal Singh Pannu 
+He gave the bestest speech and he gave the knowledge about our Guru Sahiban's .All the audience listen to him with patience and calm way .
+He not only told about the Guru sahiban but also tood about his life's journey and struggle that how he completed his studies and became a great person.His all the stories was real and very interesting. I learnt alot from his experiences .
+After that, we attend our UHV class of 1 hour and got break for lunch and again reached at auditorium for listening the rest of speech about NCC and NSS from ANO Dr.Harwinder Singh and co-ordinate Er.Jaswinder Singh Grewal respectively. They also told that how we can enroll, what are the requirements and about its benefits also .
+
+___________________________________
+
+🖇️**DAY 8**
+Date:19july2024
+
+Today ,again we reached at auditorium and our today's guest was Dr.kanwardeep Kaur Kalra . She is very great personality and she share his life experience and told us that how much important skills and confidence for person in his life .
+Afterward Dr.Jaswinder Singh Incharge. IDAP continue the stage and explain the value of mathematics in life and also of science. He did some experiments with things which were really amazing and interesting things about science. He explained experiments un very simple way .His all the talks and knowledge was very useful for us .Then we goes to our English activity class , professor taught us about new words and tell the format of introduction.
+
+___________________________________
 
 # Contact details :-
 ___________________________________
