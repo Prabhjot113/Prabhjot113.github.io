@@ -205,11 +205,29 @@ ___________________________________
 Date:24july2024
 
 Today, our induction program took an inspiring turn with a series of motivational and informative sessions that left us eager to explore new opportunities.The day began with an uplifting lecture by Mr. Gauravdeep Singh, the Founder of the club(IOC) Initiators of Change. His talk was not just motivational but also a powerful reminder of the impact we can have when we choose to be proactive in our communities. Mr. Singh’s insights into leadership and social responsibility were particularly inspiring, and they resonated with many of us.
+Following the motivational talk, we had the privilege of hearing from Er. Lakhveer Singh, the Coordinator of the Center of Multifaceted Learning (CML). He provided a comprehensive overview of CML’s mission and the various resources available to us as students. The briefing was an eye-opener, showcasing the diverse learning opportunities we have access to, ranging from technical skills to personal development. After a short break, we attended a session led by members of the Causmic club. This lecture introduced us to GNDEC’s Apex program, highlighting the benefits and opportunities it offers. The Causmic club members also shared information about upcoming events and the various avenues for engagement within the club. It was an exciting glimpse into the vibrant student life and the potential for growth through participation in club activities.
 
+___________________________________
 
+🖇️**DAY 12**
+Date:25july2024
 
+Today marked another engaging day in our induction program, blending rigorous academic work with exciting new explorations in technology. The day kicked off with an intensive Math lecture from 9 AM to 12:30 PM. The session was a deep dive into Maths, providing a solid foundation and a few challenging problems to tackle. It was a good mix of theory and practical applications, and I felt more confident in my understanding of the material. After a brief lunch break, we returned for a Math test from 1:30 PM to 3 PM. The test covered everything we’ve learned so far, and it was a great opportunity to assess our progress. While some questions were challenging, I felt well-prepared thanks to the comprehensive lectures and practice problems we’ve been working on. Post-test, I attended a meeting for CodeGNE, our college’s coding and tech club. Today’s session was particularly intriguing as students presented on OpenSCAD, an open-source software for 3D modeling. The presentation covered the basics of 3D design, from creating simple geometric shapes to more complex structures. I was fascinated by how code could translate into tangible designs, and it opened my eyes to the potential of 3D printing and modeling in various fields.The highlight was a live demonstration where we saw how altering the code could change the design in real-time. It was an inspiring session, sparking ideas for future projects and collaborations. I’m eager to explore OpenSCAD further and perhaps even create some designs of my own.
 
+___________________________________
 
+🖇️**DAY 13**
+Date:26july2024
+
+Today was the last and 13th day of our induction program at Guru Nanak Dev Engineering College. We gathered in the auditorium for a cultural competition. The first event was a singing competition, which everyone enjoyed. It was followed by a dance competition, which was equally entertaining and well-received by the audience. There was a short break before the prize ceremony. During the prize ceremony, Dr. Inderpal Singh, Director of Nankana Sahib Education Trust (NSET), shared valuable insights and words of encouragement. Principal Dr. Sehijpal Singh and the HOD of the IT department, Dr. K.S. Maan, also addressed the gathering and distributed prizes to all the winners. The day was a perfect blend of competition, creativity, and celebration, marking a memorable end to our induction program. Reflecting on these past 13 days, I feel grateful for the experiences and the bonds formed with fellow students. The program has provided a solid foundation for our future endeavors at the college, and I look forward to the challenges and opportunities that lie ahead.
+
+___________________________________
+
+**Key Takeaways**
+
+Seizing Opportunities : The induction program stressed the importance of actively engaging in opportunities, whether in learning, leadership roles, or community service. Holistic Development : GNDEC emphasizes a balance between academic knowledge, technical skills, and personal growth, encouraging students to develop a well-rounded personality. Networking and Communication : The importance of building a network and honing communication skills was highlighted as crucial for success in both academic and professional settings. Values in Relationships : Understanding and fostering values like trust, respect, and care are seen as foundational for healthy interpersonal relationships. Continuous Learning: The program underscored the need for lifelong learning, adaptability, and staying updated with the latest technological advancements.
+
+___________________________________
 
 # Contact details :-
 ___________________________________
