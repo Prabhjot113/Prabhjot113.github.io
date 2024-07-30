@@ -187,6 +187,30 @@ Afterward Dr.Jaswinder Singh Incharge. IDAP continue the stage and explain the v
 
 ___________________________________
 
+🖇️**DAY 9**
+Date:22july2024
+
+Today marked the 9th day of our induction program at Guru Nanak Dev Engineering College, and it began with an inspiring session in the auditorium. We had the honor of being addressed by the Retired Principal of our College, who shared numerous stories of his former students, including Karan Bajwa, the head of Google in seven countries, among others. His anecdotes were not only motivational but also offered valuable life lessons.He encouraged us to relax and reflect on how we want to spend our lives, emphasizing the importance of self-awareness and goal-setting. As part of this introspective exercise, he asked us to write down our details, followed by four good traits, four bad traits, four things we aim to learn from college, four expectations we have from college, and four areas we wish to improve upon. Following this reflective session, our second guest, Dr. Pushpinder Singh, took the stage. He delved into fascinating topics related to memory—both good and bad aspects—and discussed various learning styles. His insights helped us understand how our memory works and how we can optimize our learning processes, which was incredibly enlightening and practical.These sessions provided a perfect blend of inspiration and practical advice, leaving us with a deeper understanding of ourselves and how we can make the most of our college experience. The day was a significant step in our journey of self-improvement and growth.
+
+___________________________________
+
+🖇️**DAY 10**
+Date:23july2024
+
+Today was a lighter day in our induction program, but it was still filled with meaningful interactions and learning. The day began with a peer interaction session where we discussed various aspects of college life. It was a great opportunity to connect with fellow students, share experiences, and learn from each other. These sessions are invaluable for building a sense of community and easing the transition into college life. Following the interaction session, we had a Math Class. The lesson continued to build on our foundational knowledge, and it was another step forward in preparing us for the academic challenges ahead. Our instructor provided clear explanations and plenty of examples, making the complex topics more approachable . Interestingly, today we finished earlier than usual, giving us some extra time to relax and reflect on the week’s activities. It’s been a busy induction period, and this early finish was a welcome break, allowing us to recharge and prepare for the days ahead.
+
+___________________________________
+
+🖇️**DAY 11**
+Date:24july2024
+
+Today, our induction program took an inspiring turn with a series of motivational and informative sessions that left us eager to explore new opportunities.The day began with an uplifting lecture by Mr. Gauravdeep Singh, the Founder of the club(IOC) Initiators of Change. His talk was not just motivational but also a powerful reminder of the impact we can have when we choose to be proactive in our communities. Mr. Singh’s insights into leadership and social responsibility were particularly inspiring, and they resonated with many of us.
+
+
+
+
+
+
 # Contact details :-
 ___________________________________
 
