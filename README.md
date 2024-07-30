@@ -232,5 +232,7 @@ ___________________________________
 # Contact details :-
 ___________________________________
 
+LinkedIn: https://www.linkedin.com/in/prabhjot-kaur
+
 prabhjotkaur70368@gmail.com
 ___________________________________
